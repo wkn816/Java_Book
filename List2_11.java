@@ -5,5 +5,6 @@ class List2_11 {
     int i = (int)d ;
     System.out.println("dの値は" + d);
     System.out.println("iの値は" + i);
+    
 	}
 }
