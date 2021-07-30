@@ -3,7 +3,7 @@ class List3_8 {
 
     int i = 5;
     while( i > 0 ){
-      System.out.println( i );
+      System.out.println( "while文" + i );
       i--;
     }
 	}
